@@ -1,0 +1,15 @@
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\bin\Debug\net6.0\CarService.exe
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\bin\Debug\net6.0\CarService.deps.json
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\bin\Debug\net6.0\CarService.runtimeconfig.json
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\bin\Debug\net6.0\CarService.dll
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\bin\Debug\net6.0\CarService.pdb
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\CarService.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\CarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\CarService.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\CarService.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\CarService.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\CarService.dll
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\refint\CarService.dll
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\CarService.pdb
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\CarService.genruntimeconfig.cache
+C:\Users\simen\OneDrive\Desktop\homework-1.NET\Homework-1\CarService\obj\Debug\net6.0\ref\CarService.dll
